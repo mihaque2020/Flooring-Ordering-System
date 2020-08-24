@@ -1,0 +1,3 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+1,Scott,NY,8.13,Straw,160,1.8,3.25,288.0,520.00,65.690400,873.690400
+4,Oscar,NY,8.13,Marble,150,88.73,34.25,13309.50,5137.50,1499.741100,19946.741100

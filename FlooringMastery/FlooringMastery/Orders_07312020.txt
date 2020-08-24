@@ -1,0 +1,2 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+1,Minul,NY,8.13,Bamboo,150,12.5,9.25,1500.0,1110.00,212.193000,2822.193000

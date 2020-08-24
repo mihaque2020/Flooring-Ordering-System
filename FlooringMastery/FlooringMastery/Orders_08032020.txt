@@ -1,0 +1,2 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+1,Bob,NY,8.13,Marble,140,88.73,34.25,12422.20,4795.00,1399.758360,18616.958360

@@ -1,0 +1,4 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+1,Kyle,NY,8.13,Bamboo,130,18.5,9.25,2405.0,1202.50,293.289750,3900.789750
+2,Kim,NY,8.13,Mosaic Tile,160,18.5,49.25,2960.0,7880.00,881.292000,11721.292000
+3,Sean,NY,8.13,Bamboo,130,18.5,9.25,2405.0,1202.50,293.289750,3900.789750

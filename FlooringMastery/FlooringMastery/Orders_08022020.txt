@@ -1,0 +1,2 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+1,Michael,NY,8.13,Asphalt,200,10.78,13.33,2156.00,2666.00,392.028600,5214.028600
